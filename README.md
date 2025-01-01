@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Groovy error related to the `return` statement within an `eachWithIndex` closure.  The `return` statement only exits the closure, not the method. The solution shows how to correctly terminate processing of the list.
